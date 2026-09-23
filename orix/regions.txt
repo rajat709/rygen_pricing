@@ -22,3 +22,9 @@ jp-east-1
 us-southeast-3
 eu-west-5
 us-east-3
+uk-central-3
+uk-southeast-3
+eu-southwest-3
+eu-southwest-3-1
+eu-west-3
+eu-west-4
